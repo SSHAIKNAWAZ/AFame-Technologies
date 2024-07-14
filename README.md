@@ -1,4 +1,4 @@
-# AFame-Technologies
+
 # Iris Flower Classification and Sales Price Prediction Projects
 
 Welcome to my project portfolio featuring the Iris Flower Classification and Sales Price Prediction projects. These projects were completed during my internship at Afame Technologies, demonstrating my skills in data analysis and machine learning.
